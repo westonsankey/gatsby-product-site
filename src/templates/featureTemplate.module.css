@@ -1,0 +1,24 @@
+.feature-body {
+  height: 70vh;
+  display: flex;
+  margin: 2rem 8rem;
+}
+
+.header {
+  text-align: center;
+}
+
+.feature-img {
+  border-radius: 0.45rem;
+  transition: transform 0.2s;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+}
+
+.feature-bullets {
+  margin-left: 4rem;
+  max-width: 30rem;
+}
+
+p {
+  margin-bottom: 2rem;
+}

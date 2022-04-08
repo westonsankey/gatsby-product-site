@@ -1,0 +1,103 @@
+.contactBody {
+  width: 85%;
+  margin: 2rem auto;
+  height: 73vh;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 4rem;
+}
+
+.header-blurb {
+  text-align: center;
+  display: block;
+  margin: 0 auto 2rem auto;
+  max-width: 600px;
+}
+
+.form-container {
+  margin: 0 auto;
+  width: 600px;
+  display: flex;
+  justify-content: center;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  width: 430px;
+}
+
+.input-element-sm {
+  width: 48%;
+}
+
+.input-element-lg {
+  width: 100%;
+}
+
+.input-center-container {
+  display: flex;
+  justify-content: center;
+}
+
+.form-input {
+  display: block;
+  height: 30px;
+  border: 1px solid rgb(118, 118, 118);
+  border-radius: 3px;
+  margin-right: 2rem;
+  padding: 2px 7px;
+}
+
+.form-input-sm {
+  width: 100%;
+}
+
+.form-input-md {
+  width: 100%;
+}
+
+.input-label {
+  display: block;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.form-submit-btn {
+  border: none;
+  background-color: rgb(76, 65, 236);
+  color: white;
+  border-radius: 3px;
+  padding: 7px 30px;
+  transition: transform 0.2s;
+}
+
+.form-submit-btn:hover {
+  cursor: pointer;
+  transform: scale(1.05);
+}
+
+.form-submitted-body {
+  width: 85%;
+  margin: 2rem auto;
+  height: 73vh;
+}
+
+.formSubmittedHeader {
+  padding-top: 5rem;
+  text-align: center;
+}
+
+.formSubmittedText {
+  padding-top: 2rem;
+  text-align: center;
+}

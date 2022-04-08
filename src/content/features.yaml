@@ -1,0 +1,39 @@
+- item:
+  name: Lightweight
+  slug: lightweight
+  description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris
+    vitae ultricies leo. Scelerisque mauris pellentesque pulvinar
+    pellentesque habitant morbi tristique senectus et.
+  bullets:
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris vitae ultricies leo. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et.
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris vitae ultricies leo. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et.
+  imagePreviewPath: ../static/images/feature-preview-light.jpg
+  imageMainPath: ../static/images/feature-main-light.jpg
+- item:
+  name: Production Ready
+  slug: prod
+  description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris
+    vitae ultricies leo. Scelerisque mauris pellentesque pulvinar
+    pellentesque habitant morbi tristique senectus et.
+  bullets:
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris vitae ultricies leo. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et.
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris vitae ultricies leo. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et.
+  imagePreviewPath: ../static/images/feature-preview-prod.jpg
+  imageMainPath: ../static/images/feature-main-prod.jpg
+- item:
+  name: Stylish
+  slug: style
+  description:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris
+    vitae ultricies leo. Scelerisque mauris pellentesque pulvinar
+    pellentesque habitant morbi tristique senectus et.
+  bullets:
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris vitae ultricies leo. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et.
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ridiculus mus mauris vitae ultricies leo. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et.
+  imagePreviewPath: ../static/images/feature-preview-style.jpg
+  imageMainPath: ../static/images/feature-main-style.jpg
